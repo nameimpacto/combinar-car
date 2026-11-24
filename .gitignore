@@ -1,0 +1,11 @@
+# Build e assinatura — nunca versionar
+*.apk
+*.aab
+*.idsig
+*.keystore
+*.jks
+*.pem
+*.key
+build/
+out/
+local.properties
